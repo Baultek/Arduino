@@ -38,5 +38,5 @@ Hemos configurado los puertos y cuando subimos el archivo nos dio error
 
 #### Foto 4. Aqui implementamos el boton para darle la orden de encenderse y apagarse.
 
-![]()
+![](https://raw.githubusercontent.com/Baultek/Arduino/main/Foto%20de%20Jmsabe(3).jpg)
 
