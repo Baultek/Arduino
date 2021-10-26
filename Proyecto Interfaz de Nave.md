@@ -67,7 +67,7 @@ SwitchState = 0; SwitchState es una variable es de tipo "INT" que signifíca que
 
 ---
 
-### Variaciones
+### Variacion
 
 ```
 
