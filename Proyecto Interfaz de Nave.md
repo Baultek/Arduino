@@ -15,8 +15,33 @@ del boton, la luz se apagara y las otras 2 luces empezaran a parpadear.
 
 ```
 
-Vamos a añadir un boton al pin 3 de tal forma que solo cuando se pulse el led 3 se encendera.
-El resto del proyecto (hardware y software) es el mismo.
+- Construir circuito
+
+- Programar circuito
+
+- Variaciones
+
+Ordenador:
+
+Input:
+
+- Ratón
+- Teclado
+- Micro
+- Webcam
+
+Output:
+
+- Altavoces
+- Monitor
+
+Teléfono:
+
+- Entradas: micrófono, cámaras, pantallas táctil, giroscópio, acelerómetro.
+
+- Salidas: pantalla, altavoces, linterna, motor vibración
+
+ARDUINO - 18 pines
 
 ```
 
@@ -24,17 +49,35 @@ El resto del proyecto (hardware y software) es el mismo.
 
 ### Proceso de montajea
 
+Programación - pág 34-35 Resistencias - página 41. 220 - azules
 
-#### Materiales necesarios
-
-
-#### Circuitos
-
-
-#### Foto de circuito
+SwitchState = 0; SwitchState es una variable es de tipo "INT" que signifíca que es un número entero.
 
 ---
 
 ### Codigo
 
+```
+
+
+
+```
+
 ---
+
+### Variaciones
+
+```
+
+Vamos a añadir un botón al pin 3 de tal forma que solo cuando se pulse el led 3
+se encienda. El resto del proyecto ( hardware y software ) es el mismo.
+
+Antes LED 220
+
+Pin 3-----LED/-----ww ---- GND
+
+Después
+
+PIN 3-----LED/----- WW---- GND
+
+```
