@@ -47,7 +47,7 @@ ARDUINO - 18 pines
 
 ---
 
-### Proceso de montajea
+### Proceso de montaje
 
 Programación - pág 34-35 Resistencias - página 41. 220 - azules
 
@@ -57,11 +57,13 @@ SwitchState = 0; SwitchState es una variable es de tipo "INT" que signifíca que
 
 ### Codigo
 
-```
+![](https://raw.githubusercontent.com/Baultek/Arduino/main/imagenes%20arduino/Captura%20de%20pantalla%20de%202021-10-26%2010-25-29.png)
 
+---
 
+### Circuito
 
-```
+![](
 
 ---
 
