@@ -1,10 +1,10 @@
-# Proyecto : Interfaz de Nave
+# Interfaz de Nave
 
 ### Resumen
 
 ```
 
-El LED permanecera encendido ahsta que pulses un botón. Cuando el arduino reciba una señal
+El LED permanecera encendido hasta que pulses un botón. Cuando el arduino reciba una señal
 del boton, la luz se apagara y las otras 2 luces empezaran a parpadear.
 
 ```
@@ -49,9 +49,13 @@ ARDUINO - 18 pines
 
 ### Proceso de montaje
 
+```
+
 Programación - pág 34-35 Resistencias - página 41. 220 - azules
 
 SwitchState = 0; SwitchState es una variable es de tipo "INT" que signifíca que es un número entero.
+
+```
 
 ---
 
