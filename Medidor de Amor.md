@@ -16,11 +16,11 @@ for: sirve para repetir cosas
 
 loop:
 
-primero declara una variable
+Primero declara una variable.
 
 int sensorVal = analogRead (sensorpin)
 
-Lee el voltage que teiene el pin
+Lee el voltage que teiene el pin.
 
 SensorPin ( en este caso A0= y lo magca a valoes entre 0 y 1023. 0 significa 0V o GND y 1023 significa SV.
 
@@ -32,9 +32,9 @@ Serial,print (sensor val);
 
 float voltage = (sensorVal/124.0) * 5.0;
 
-temperatura: float temperature = (voltage - 0.5) * 100;
+Temperatura: float temperature = (voltage - 0.5) * 100;
 
-LOOP: Leer sensores Tratar los datos del sensor Pasamos de 0-023 a una temperatura Decidir que leds se encienden
+Loop: Leer sensores Tratar los datos del sensor Pasamos de 0-023 a una temperatura Decidir que leds se encienden
 
 if (temperature <baselineTemp){
 
