@@ -52,6 +52,6 @@ if (temperature <baselineTemp){
 
 ### Circuito
 
-![](
+![](https://raw.githubusercontent.com/Baultek/Arduino/main/imagenes%20arduino/Captura%20de%20pantalla%20de%202021-10-26%2013-59-29.png)
 
 ---
