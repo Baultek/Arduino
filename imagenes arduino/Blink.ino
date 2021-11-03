@@ -1,3 +1,4 @@
+
 int estadoBotonPin2 = 0;
 int estadoBotonPin3 = 0;
 void setup() {
@@ -16,7 +17,7 @@ void loop() {
   Serial.println(estadoBotonPin3); 
   //suponiendo que los botones están conectados para ser HIGH al pulsarse
   if ( estadoBotonPin2 == HIGH
-    &&
+    ||
     estadoBotonPin3 == HIGH) {
     digitalWrite(4, HIGH);
     digitalWrite(5, HIGH);
