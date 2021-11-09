@@ -79,34 +79,44 @@ float = numeros decimales
 
 ### Proceso
 
-#### Version 1
+#### Resultado 1
 
 Hemos comenzado copiando unos codigos en la pizzara de la version uno la cual seria esta en particular
 
-#### Version 2
+#### Resultado 2
 
 Hemos echo que 'parpadease siempre cuando le dabamos a un boton se encendia otro y al contrario.
 
-#### Version 3
+#### Resultado 3
 
 Lo que hemos hecho en la version 3 es que siempre esten parpadeando sin parar y cuando le das a un boton se enciende uno y cuando le das ah otro se enciende otro
 
-#### Version 4
+#### Resultado 4
 
 En la version 4 Siempre estaban apagados y se encendian con cualquiera de los dos botones
 
-#### Version 5
+#### Resultado 5
 
 En la version 5 siempre estan parpadeando permanentemente, cuando aprietas el boton que esta conectado al pin dos brilla el led del pin 4 y el otro led se apaga , cuando el boton que esta conectado al pin 3 se aprieta se enciende el led que esta conectado al pin 5 el otro led se apaga y si oprimes los dos botones los dos leds se mantienen encendidos
 
-#### Version 6
+#### Resultado 6
 
 Usamos este operador (!) este sirve para hcaer la accion contraria de lo que se desea
 
-#### Version 7
+#### Resultado 7
 
 Lo que hicimos en el ultimo fue una variante de colores en cada led hcaiendo que cada uno tuviera un color diferente
 
-#### Version 7
+#### Resultado 7
 
 Hemos cambiado los leds por reguladores aun que la mecanica funciona el led verde no sufre efecto y ni se ve el color lo arreglaremos junto al david el martes
+
+### Error 
+
+```
+
+En una parte del proceso hemos tenido pequeños fallos en el codigo correjidos al instante,
+luego nos surjio un error en el circuito devido a que teniamos los potenciadores mal 
+puestos y nos fallaba una de las piezas.
+
+```
