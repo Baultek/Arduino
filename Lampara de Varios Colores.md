@@ -38,6 +38,12 @@ Que usaremos a traves de funcion AnalogWrite(Pin,0-255).
 
 Esta funcion solo funciona en Pines con PWM
 
+Los Pines con PWM estan marcados con el simbolo ~ (la tilde de la Ñ)
 
+La funcion nos pide dos cosas por un lado
+
+- Numero de PIN
+
+- Un umero entre 0 y 255
 
 ```
