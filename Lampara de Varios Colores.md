@@ -5,7 +5,7 @@
 
 ```
 
-Tengo un arduino qdue suministra 5V a un LED.
+Tengo un arduino que suministra 5V a un LED.
 
 A mayor intensidad de corriente (A) el LED brilla mas.
 
