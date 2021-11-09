@@ -46,4 +46,19 @@ La funcion nos pide dos cosas por un lado
 
 - Un umero entre 0 y 255
 
+0 = 0% de voltaje
+
+255 = 100% de voltaje
+
+INT = Significa que nuestra variable es un tipo de dato numerico no decimal la asigna
+un espacio de memoria
+
+STZING = Cadena de caracteres
+
+Bool = Booleano si es verdadero (true) si es falso (false)
+
+chaz = Un unico caracter
+
+float = numeros decimales
+
 ```
