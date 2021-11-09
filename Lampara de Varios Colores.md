@@ -107,7 +107,7 @@ Usamos este operador (!) este sirve para hcaer la accion contraria de lo que se 
 
 Lo que hicimos en el ultimo fue una variante de colores en cada led hcaiendo que cada uno tuviera un color diferente
 
-#### Resultado 7
+#### Resultado 8
 
 Hemos cambiado los leds por reguladores aun que la mecanica funciona el led verde no sufre efecto y ni se ve el color lo arreglaremos junto al david el martes
 
