@@ -67,7 +67,7 @@ float = numeros decimales
 
 ### Codigo
 
-##### [Codigo de programacion](https://github.com/Baultek/Arduino/blob/be455e3ec709481f8e5f2d400fff8f7fe17e984f/imagenes%20arduino/lampara_de_varios_colores.ino)
+#### [Codigo de programacion](https://github.com/Baultek/Arduino/blob/be455e3ec709481f8e5f2d400fff8f7fe17e984f/imagenes%20arduino/lampara_de_varios_colores.ino)
 
 ---
 
@@ -76,3 +76,37 @@ float = numeros decimales
 ![](https://github.com/Baultek/Arduino/blob/main/imagenes%20arduino/circuito%20lampara.png?raw=true)
 
 ---
+
+### Proceso
+
+#### Version 1
+
+Hemos comenzado copiando unos codigos en la pizzara de la version uno la cual seria esta en particular
+
+#### Version 2
+
+Hemos echo que 'parpadease siempre cuando le dabamos a un boton se encendia otro y al contrario.
+
+#### Version 3
+
+Lo que hemos hecho en la version 3 es que siempre esten parpadeando sin parar y cuando le das a un boton se enciende uno y cuando le das ah otro se enciende otro
+
+#### Version 4
+
+En la version 4 Siempre estaban apagados y se encendian con cualquiera de los dos botones
+
+#### Version 5
+
+En la version 5 siempre estan parpadeando permanentemente, cuando aprietas el boton que esta conectado al pin dos brilla el led del pin 4 y el otro led se apaga , cuando el boton que esta conectado al pin 3 se aprieta se enciende el led que esta conectado al pin 5 el otro led se apaga y si oprimes los dos botones los dos leds se mantienen encendidos
+
+#### Version 6
+
+Usamos este operador (!) este sirve para hcaer la accion contraria de lo que se desea
+
+#### Version 7
+
+Lo que hicimos en el ultimo fue una variante de colores en cada led hcaiendo que cada uno tuviera un color diferente
+
+#### Version 7
+
+Hemos cambiado los leds por reguladores aun que la mecanica funciona el led verde no sufre efecto y ni se ve el color lo arreglaremos junto al david el martes
