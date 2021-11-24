@@ -34,5 +34,32 @@ con una resistencia de 10 kilo ohmios.
 
 ```
 
-En esta variante hemos implementado el funcionamiento de un boton para poder 
+En esta variante hemos implementado el funcionamiento de un boton para poder
 controlar cuando queremos que se escuche o no el piezo.
+
+```
+
+---
+
+### Variante 2
+
+```
+
+En esta variante hemos actualizado el software para añadir un boton sin tener que
+tocar el hardware.
+
+```
+
+---
+
+### Snippet
+
+```
+
+Fragmento de codigo que no funciona por si mismo y sirve para una funcion concreta.
+
+Los Snippets se copian se pegan y normalmente se adaptan al codigo a mano por le programadore.
+
+```
+
+---
