@@ -6,7 +6,7 @@
 
 #### [1. Primera Prueba del Arduino](https://github.com/Baultek/Arduino/blob/main/Primera%20Prueba%20de%20Programaci%C3%B3n.md#programacion-arduino)
 
-#### [2. Programación del Arduino](https://github.com/Baultek/Arduino/blob/main/1.Prueba%20Programaci%C3%B3n.md#programacion-arduino)
+#### [2. Programación del Arduino](https://github.com/Baultek/Arduino/blob/main/Programaci%C3%B3n%20Arduino.md#programacion-arduino)
 
 #### [3. Circuitos Electricos](https://github.com/Baultek/Arduino/blob/main/Circuitos%20Electricos.md#circuitos-electricos)
 
