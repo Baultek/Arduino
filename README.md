@@ -10,7 +10,7 @@
 
 #### [3. Circuitos Electricos](https://github.com/Baultek/Arduino/blob/main/Circuitos%20Electricos.md#circuitos-electricos)
 
-#### [4.Interfaz de Nave](https://github.com/Baultek/Arduino/blob/main/Interfaz%20de%20Nave.md#interfaz-de-nave)https://github.com/Baultek/Arduino/blob/main/Interfaz%20de%20Nave.md#interfaz-de-nave
+#### [4.Interfaz de Nave](https://github.com/Baultek/Arduino/blob/main/Interfaz%20de%20Nave.md#interfaz-de-nave)
 
 #### [5.Medidor de Amor](
 
