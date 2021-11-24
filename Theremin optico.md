@@ -29,3 +29,10 @@ con una resistencia de 10 kilo ohmios.
 ![]()
 
 ---
+
+### Variante
+
+```
+
+En esta variante hemos implementado el funcionamiento de un boton para poder 
+controlar cuando queremos que se escuche o no el piezo.
