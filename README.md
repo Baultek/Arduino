@@ -12,6 +12,6 @@
 
 #### [4.Interfaz de Nave](https://github.com/Baultek/Arduino/blob/main/Interfaz%20de%20Nave.md#interfaz-de-nave)
 
-#### [5.Medidor de Amor](
+#### [5.Medidor de Amor](https://github.com/Baultek/Arduino/blob/main/Medidor%20de%20Amor.md#proyecto-medidor-de-amor)
 
 #### [6.Lampara de Colores](
