@@ -19,9 +19,7 @@ Intensidad = Voltaje/Resistencia
 
 ---
 
-### Codigo
-
-
+### [Codigo](https://github.com/Baultek/Arduino/blob/4e4d550a167138f5db8f74074f59956bfca3a956/imagenes%20arduino/codigo%20molinillo.MD)
 
 ---
 
