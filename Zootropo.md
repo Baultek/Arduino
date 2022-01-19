@@ -1,5 +1,7 @@
 # Zootropo
 
+![](https://raw.githubusercontent.com/Baultek/Arduino/main/imagenes%20arduino/zooooo.jpg)
+
 ### Proceso
 
 ```
