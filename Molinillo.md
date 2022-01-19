@@ -29,3 +29,4 @@ En este proyecto hemos tenido que hacer un codigo bastante basico con simplement
 
 #### Circuito 
 
+![](https://raw.githubusercontent.com/Baultek/Arduino/main/imagenes%20arduino/molino%20vgyghuide%20liono.jpg)
