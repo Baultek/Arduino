@@ -1,7 +1,5 @@
 # Zootropo
 
-![](https://raw.githubusercontent.com/Baultek/Arduino/main/imagenes%20arduino/zooooo.jpg)
-
 ### Proceso
 
 ```
@@ -17,8 +15,10 @@ tamaño ya que hasta ahora ha sido uno de los mas grandes que hemos hecho.
 
 ---
 
-### Codigo
+### [Codigo]()
 
 ---
 
 ### Circuito
+
+![](https://raw.githubusercontent.com/Baultek/Arduino/main/imagenes%20arduino/zooooo.jpg)
