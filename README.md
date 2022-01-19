@@ -15,3 +15,7 @@
 #### [5.Medidor de Amor](https://github.com/Baultek/Arduino/blob/main/Medidor%20de%20Amor.md#proyecto-medidor-de-amor)
 
 #### [6.Lampara de Colores](https://github.com/Baultek/Arduino/blob/main/Lampara%20de%20Varios%20Colores.md#pwm-pulse-with-modulation)
+
+#### [7.Molinillo]()
+
+#### [8.Zootropo]()
