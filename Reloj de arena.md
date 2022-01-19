@@ -12,7 +12,7 @@ unos problemas con el coodigo que solucionamos rapidamente.
 
 ---
 
-### [Codigo]()
+### [Codigo](https://github.com/Baultek/Arduino/blob/5eb76fb46a90ad7486032e2486ad590fa089cfcc/imagenes%20arduino/reloj.MD.ino)
 
 ---
 
