@@ -54,3 +54,8 @@ mover a un ángulo, posición y velocidad particulares que un motor normal no ti
 
 [Informacion de Servomotor](https://www.google.com/search?channel=fs&client=ubuntu&q=servomotor)
 
+---
+
+### Circuito
+
+![](https://github.com/Samael696/arduino/blob/main/IMG_20220126_114944.jpg?raw=true)
