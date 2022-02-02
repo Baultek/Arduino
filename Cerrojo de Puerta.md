@@ -59,3 +59,7 @@ mover a un ángulo, posición y velocidad particulares que un motor normal no ti
 ### Circuito
 
 ![](https://github.com/Samael696/arduino/blob/main/IMG_20220126_114944.jpg?raw=true)
+
+---
+
+### [Codigo](https://github.com/Samael696/arduino/blob/main/codigo%20cerrojo%20de%20puerta.ino)
