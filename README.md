@@ -14,16 +14,18 @@
 
 #### [5.Medidor de Amor](https://github.com/Baultek/Arduino/blob/main/Medidor%20de%20Amor.md#proyecto-medidor-de-amor)
 
-#### [6.Lampara de Colores](https://github.com/Baultek/Arduino/blob/main/Lampara%20de%20Varios%20Colores.md#pwm-pulse-with-modulation)
+#### [6.Lámpara de Colores](https://github.com/Baultek/Arduino/blob/main/Lampara%20de%20Varios%20Colores.md#pwm-pulse-with-modulation)
 
-#### [7.Theremin Optico](https://github.com/Baultek/Arduino/blob/main/Theremin%20optico.md#theremin-optico)
+#### [7.Theremin Óptico](https://github.com/Baultek/Arduino/blob/main/Theremin%20optico.md#theremin-optico)
 
-#### [8.Molinillo](https://github.com/Baultek/Arduino/blob/main/Molinillo.md#molinillo)
+#### [8.Reloj de Arena](https://github.com/Baultek/Arduino/blob/main/Reloj%20de%20Arena.md#reloj-de-arena)
 
-#### [9.Zootropo](https://github.com/Baultek/Arduino/blob/main/Zootropo.md#zootropo)
+#### [9.Molinillo](https://github.com/Baultek/Arduino/blob/main/Molinillo.md#molinillo)
 
-#### [10.Cerrojo de puerta](https://github.com/Baultek/Arduino/blob/main/Cerrojo%20de%20Puerta.md#cerrojo-de-puerta)
+#### [10.Zoótropo](https://github.com/Baultek/Arduino/blob/main/Zootropo.md#zootropo)
 
-#### [11.Lámpara Táctil](https://github.com/Baultek/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md#l%C3%A1mpara-t%C3%A1ctil)
+#### [11.Cerrojo de puerta](https://github.com/Baultek/Arduino/blob/main/Cerrojo%20de%20Puerta.md#cerrojo-de-puerta)
 
-#### [12.Joystick](https://github.com/Baultek/Arduino/blob/main/Joystick.md#joystick)
+#### [12.Lámpara Táctil](https://github.com/Baultek/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md#l%C3%A1mpara-t%C3%A1ctil)
+
+#### [13.Joystick](https://github.com/Baultek/Arduino/blob/main/Joystick.md#joystick)
