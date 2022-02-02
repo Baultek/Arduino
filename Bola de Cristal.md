@@ -23,3 +23,7 @@ resistencias e interruptor de inclinación.
  ---
  
  ### [Codigo](https://github.com/jjksimp/arduino/blob/main/Bola_de_cristal.ino)
+ 
+ ### Imagen
+ 
+ ![](https://user-images.githubusercontent.com/90753482/149143556-89d636dd-9daa-4953-9dd4-0e0253a4a2df.png)
