@@ -25,3 +25,5 @@
 #### [10.Cerrojo de puerta](https://github.com/Baultek/Arduino/blob/main/Cerrojo%20de%20Puerta.md#cerrojo-de-puerta)
 
 #### [11.Lámpara Táctil](https://github.com/Baultek/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md#l%C3%A1mpara-t%C3%A1ctil)
+
+#### [12.Joystick](https://github.com/Baultek/Arduino/blob/main/Joystick.md#joystick)
