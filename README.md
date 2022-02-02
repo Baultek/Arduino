@@ -16,6 +16,8 @@
 
 #### [6.Lampara de Colores](https://github.com/Baultek/Arduino/blob/main/Lampara%20de%20Varios%20Colores.md#pwm-pulse-with-modulation)
 
-#### [7.Molinillo]()
+#### [7.Theremin Optico](https://github.com/Baultek/Arduino/blob/main/Theremin%20optico.md#theremin-optico)
 
-#### [8.Zootropo]()
+#### [8.Molinillo]()
+
+#### [9.Zootropo]()
