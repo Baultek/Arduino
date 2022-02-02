@@ -20,18 +20,20 @@
 
 #### [8.Theremin Óptico](https://github.com/Baultek/Arduino/blob/main/Theremin%20optico.md#theremin-optico)
 
-#### [9.Reloj de Arena](https://github.com/Baultek/Arduino/blob/main/Reloj%20de%20Arena.md#reloj-de-arena)
+#### [9.Instrumento de Teclado](https://github.com/Baultek/Arduino/blob/main/Instrumento%20de%20Teclado.md#instrumento-de-teclado)
 
-#### [10.Molinillo](https://github.com/Baultek/Arduino/blob/main/Molinillo.md#molinillo)
+#### [10.Reloj de Arena](https://github.com/Baultek/Arduino/blob/main/Reloj%20de%20Arena.md#reloj-de-arena)
 
-#### [11.Zoótropo](https://github.com/Baultek/Arduino/blob/main/Zootropo.md#zootropo)
+#### [11.Molinillo](https://github.com/Baultek/Arduino/blob/main/Molinillo.md#molinillo)
 
-#### [12.Bola de Cristal](https://github.com/Baultek/Arduino/blob/main/Bola%20de%20Cristal.md#bola-de-cristal)
+#### [12.Zoótropo](https://github.com/Baultek/Arduino/blob/main/Zootropo.md#zootropo)
 
-#### [13.Cerrojo de puerta](https://github.com/Baultek/Arduino/blob/main/Cerrojo%20de%20Puerta.md#cerrojo-de-puerta)
+#### [13.Bola de Cristal](https://github.com/Baultek/Arduino/blob/main/Bola%20de%20Cristal.md#bola-de-cristal)
 
-#### [14.Lámpara Táctil](https://github.com/Baultek/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md#l%C3%A1mpara-t%C3%A1ctil)
+#### [14.Cerrojo de puerta](https://github.com/Baultek/Arduino/blob/main/Cerrojo%20de%20Puerta.md#cerrojo-de-puerta)
 
-#### [15.Joystick](https://github.com/Baultek/Arduino/blob/main/Joystick.md#joystick)
+#### [15.Lámpara Táctil](https://github.com/Baultek/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md#l%C3%A1mpara-t%C3%A1ctil)
 
-#### [16.Medidor de Humedad y temperatura]()
+#### [16.Joystick](https://github.com/Baultek/Arduino/blob/main/Joystick.md#joystick)
+
+#### [17.Medidor de Humedad y temperatura]()
