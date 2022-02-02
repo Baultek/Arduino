@@ -24,10 +24,12 @@
 
 #### [10.Zoótropo](https://github.com/Baultek/Arduino/blob/main/Zootropo.md#zootropo)
 
-#### [11.Cerrojo de puerta](https://github.com/Baultek/Arduino/blob/main/Cerrojo%20de%20Puerta.md#cerrojo-de-puerta)
+#### [11.Bola de Cristal](https://github.com/Baultek/Arduino/blob/main/Bola%20de%20Cristal.md#bola-de-cristal)
 
-#### [12.Lámpara Táctil](https://github.com/Baultek/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md#l%C3%A1mpara-t%C3%A1ctil)
+#### [12.Cerrojo de puerta](https://github.com/Baultek/Arduino/blob/main/Cerrojo%20de%20Puerta.md#cerrojo-de-puerta)
 
-#### [13.Joystick](https://github.com/Baultek/Arduino/blob/main/Joystick.md#joystick)
+#### [13.Lámpara Táctil](https://github.com/Baultek/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md#l%C3%A1mpara-t%C3%A1ctil)
 
-#### [14.Medidor de Humedad y temperatura]()
+#### [14.Joystick](https://github.com/Baultek/Arduino/blob/main/Joystick.md#joystick)
+
+#### [15.Medidor de Humedad y temperatura]()
