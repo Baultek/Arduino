@@ -24,12 +24,6 @@ con una resistencia de 10 kilo ohmios.
 
 ---
 
-### Circuito
-
-![]()
-
----
-
 ### Variante
 
 ```
