@@ -1,4 +1,4 @@
-# Instrumento de Teclado
+# Instrumento de Teclado - Villancico
 
 ### Proceso
 
@@ -7,7 +7,7 @@
 Este ha sido un proyecto que hice junto a steven y la verda que fue abstante 
 sencillo conectando boton tras boton consecutivamente y coenctando varios 
 cables mas conseguimos lograr que haga su proposito, cuando pulsemos un boton 
-este activara un sonido distinto en el piezometro consiguiendo una melodia.
+este activara un sonido distinto en el piezometro consiguiendo un villancico.
 
 ```
 
