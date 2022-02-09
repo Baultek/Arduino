@@ -59,7 +59,7 @@ que nos proporciona el sensor de entrada, veremos que hay todo un abanico de ell
 
 ### Circuito
 
-![]()
+![](https://github.com/Baultek/Arduino/blob/main/imagenes%20arduino/WhatsApp%20Image%202022-01-26%20at%2013.05.50.jpeg?raw=true)
 
 
 
