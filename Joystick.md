@@ -34,3 +34,9 @@ para poder adaptarlo a el uso del joystick y salido perfecto.
 ### Circuito
 
 ![](https://github.com/Samael696/arduino/raw/main/IMG_20220126_133159.jpg?raw=true)
+
+---
+
+### Circuito - Variacion
+
+![](https://github.com/Baultek/Arduino/blob/main/imagenes%20arduino/Joystick.png?raw=true)
