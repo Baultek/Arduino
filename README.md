@@ -18,7 +18,7 @@
 
 #### [7.Indicador de Estado de Ánimo](https://github.com/Baultek/Arduino/blob/main/Indicador%20de%20Estado%20de%20%C3%81nimo.md#indicador-de-estado-de-%C3%A1nimo)
 
-#### [8.Theremin Óptico](https://github.com/Baultek/Arduino/blob/main/Theremin%20optico.md#theremin-optico)
+#### [8.Theremin Óptico](https://github.com/Baultek/Arduino/blob/main/Theremin%20Optico.md#theremin-optico)
 
 #### [9.Instrumento de teclado](https://github.com/Baultek/Arduino/blob/main/Instrumento%20de%20Teclado.md#instrumento-de-teclado---villancico)
 
