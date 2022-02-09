@@ -36,4 +36,4 @@
 
 #### [16.Joystick](https://github.com/Baultek/Arduino/blob/main/Joystick.md#joystick)
 
-#### [17.Medidor de Humedad y temperatura]()
+#### [17.Medidor de Humedad y temperatura](https://github.com/Baultek/Arduino/blob/main/Medidor%20de%20Humedad%20y%20temperatura.md#medidor-de-humedad-y-temperatura)
